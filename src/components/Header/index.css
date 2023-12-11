@@ -1,0 +1,7 @@
+/* Write your CSS here */
+
+.FlexingHeader {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

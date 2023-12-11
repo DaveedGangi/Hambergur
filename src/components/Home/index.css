@@ -1,0 +1,17 @@
+/* Write your CSS here */
+
+.bg {
+  height: 100vh;
+}
+.Home {
+  text-align: center;
+}
+
+.flexingLogo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.Button {
+  color: black;
+}
